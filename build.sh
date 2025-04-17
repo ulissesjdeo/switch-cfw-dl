@@ -1,4 +1,4 @@
-pip install nuitka
+uv pip install nuitka
 
 python \
   -m nuitka \
